@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MakeQuiz</string>
+    <string name="add_button">Add to the list</string>
+    <string name="add_db">Add list to database</string>
+    <string name="question_label">Question</string>
+    <string name="answer_label">Answer</string>
+    <string name="question_box">Here your Question</string>
+    <string name="answer_box">Here your Answer</string>
+    <string name="quiz_label">Quiz Question and Answer</string>
+    <string name="text_text">List of Questions whit the answers</string>
+</resources>
